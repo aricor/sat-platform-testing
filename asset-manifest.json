@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sat-platform-testing/static/css/main.7089271b.chunk.css",
+    "main.js": "/sat-platform-testing/static/js/main.8e3d87ce.chunk.js",
+    "main.js.map": "/sat-platform-testing/static/js/main.8e3d87ce.chunk.js.map",
+    "runtime-main.js": "/sat-platform-testing/static/js/runtime-main.22acc745.js",
+    "runtime-main.js.map": "/sat-platform-testing/static/js/runtime-main.22acc745.js.map",
+    "static/js/2.2e9b9f87.chunk.js": "/sat-platform-testing/static/js/2.2e9b9f87.chunk.js",
+    "static/js/2.2e9b9f87.chunk.js.map": "/sat-platform-testing/static/js/2.2e9b9f87.chunk.js.map",
+    "index.html": "/sat-platform-testing/index.html",
+    "precache-manifest.6bea7b8a227bf48fbcee4c80ce8728dc.js": "/sat-platform-testing/precache-manifest.6bea7b8a227bf48fbcee4c80ce8728dc.js",
+    "service-worker.js": "/sat-platform-testing/service-worker.js",
+    "static/css/main.7089271b.chunk.css.map": "/sat-platform-testing/static/css/main.7089271b.chunk.css.map",
+    "static/media/readingSection2a.png": "/sat-platform-testing/static/media/readingSection2a.46919234.png",
+    "static/media/readingSection2b.png": "/sat-platform-testing/static/media/readingSection2b.5b77f883.png",
+    "static/media/readingSection5a.png": "/sat-platform-testing/static/media/readingSection5a.6dbc11cb.png",
+    "static/media/readingSection5b.png": "/sat-platform-testing/static/media/readingSection5b.de0d93c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22acc745.js",
+    "static/js/2.2e9b9f87.chunk.js",
+    "static/css/main.7089271b.chunk.css",
+    "static/js/main.8e3d87ce.chunk.js"
+  ]
+}
