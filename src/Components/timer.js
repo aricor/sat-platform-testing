@@ -77,7 +77,7 @@ export default class Timer extends Component {
                 <div className="sectionType">
                 <h2>{this.props.sectionType}</h2>
                 </div>
-                    <a href="" className="elite">Elite Prep VN</a>
+                    <a href="" className="elite">SAT MOCK TEST</a>
                 <div className="timer">
                 {this.renderTimerText()}
                 </div>
