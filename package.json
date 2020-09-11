@@ -2,7 +2,7 @@
   "name": "react-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bunniyay.github.io/SAT-api/",
+  "homepage": "https://aricor.github.io/SAT-api/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "formik": "^2.1.2",
