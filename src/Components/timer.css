@@ -1,0 +1,39 @@
+
+
+.timerContainer {
+  display: flex; /* or inline-flex */
+    justify-content: space-around;
+   /* position: fixed; */
+    top: 0;
+    background: #191409;
+    width:100%;
+  }
+
+  .elite {
+    color: #DFA736;
+    font-family: 'Monoton', cursive;
+    font-size: 35px;
+    text-align: center;
+
+  }
+
+  .elite:hover {
+    color: #FF5252;
+  }
+
+  .timer, .sectionType {
+  font-family:'Share Tech Mono', monospace;
+  }
+  .timer {
+    color: #FF5252;
+    font-size: 20px;
+    
+  }
+
+  .sectionType {
+    color: white;
+    font-size: 25px;
+    float: left;
+  }
+  @import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+
